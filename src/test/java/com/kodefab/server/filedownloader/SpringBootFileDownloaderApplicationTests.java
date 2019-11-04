@@ -1,4 +1,4 @@
-package com.kodefab.signage.signageserver.springbootfiledownloader;
+package com.kodefab.server.filedownloader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
